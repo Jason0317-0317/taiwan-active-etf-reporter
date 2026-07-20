@@ -22,6 +22,12 @@ ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
 REPORT_DIR = ROOT / "reports"
 UA = "taiwan-active-etf-reporter/1.0 (+GitHub Actions)"
+FALLBACK_TICKERS = (
+    "00400A", "00401A", "00403A", "00404A", "00405A", "00406A", "00407A", "00408A",
+    "00980A", "00981A", "00982A", "00983A", "00984A", "00985A", "00986A", "00987A",
+    "00988A", "00989A", "00990A", "00991A", "00992A", "00993A", "00994A", "00995A",
+    "00996A", "00997A", "00998A", "00999A",
+)
 
 
 @dataclass(frozen=True)
@@ -56,7 +62,8 @@ def discover_active_etfs(soup: BeautifulSoup | None = None) -> dict[str, str]:
             ticker = match.group(1).upper()
             result.setdefault(ticker, ticker)
     if not result:
-        raise RuntimeError("找不到主動式 ETF 清單，來源頁格式可能已變更")
+        print("探索頁未回傳清單，改用內建備援名單", file=sys.stderr)
+        return {ticker: ticker for ticker in FALLBACK_TICKERS}
     return dict(sorted(result.items()))
 
 
