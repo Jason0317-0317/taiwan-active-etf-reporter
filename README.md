@@ -1,12 +1,13 @@
-# 台灣主動式 ETF 每日持股回報
+# 台灣主動式 ETF 持有金額前 30 名通報
 
-每天盤後自動找出台灣股票型主動式 ETF、擷取完整持股、和前一個快照比較，寄送 HTML 摘要到 Gmail，並把 JSON/CSV 歷史留在 GitHub。
+每天盤後自動找出台灣股票型主動式 ETF、擷取完整持股，將同一股票在不同 ETF 的持有市值合併加總，並把持有金額最高的 30 檔股票寄送到 Gmail。完整 JSON/CSV 歷史仍會保留在 GitHub。
 
 ## 功能
 
 - 自動發現代號尾碼為 `A` 的股票型主動式 ETF，不用手動維護清單
-- 回報新增、刪除、增持、減持與權重變動
-- 每檔保存 JSON 與 Excel 可直接開啟的 UTF-8 CSV
+- 依股票代號彙總所有主動式 ETF 的持有市值
+- 通報合計持有金額最高的 30 檔股票，並顯示持有 ETF 數量
+- 每檔 ETF 仍保存完整 JSON 與 Excel 可直接開啟的 UTF-8 CSV
 - 個別 ETF 抓取失敗不會中止其他標的，信中列出失敗原因
 - GitHub Actions 週一至週五台灣時間 17:30 自動執行，也可手動執行
 
@@ -22,7 +23,7 @@
 
 請勿填入一般 Gmail 登入密碼。若只想追蹤部分標的，可新增 Repository variable `ETF_TICKERS`，值如 `00981A,00982A`；留白即追蹤全部。
 
-到 **Actions → Daily active ETF report → Run workflow** 手動測試。第一次執行沒有前日資料，因此只會建立基準快照；第二次起才會出現差異。
+到 **Actions → Daily active ETF report → Run workflow** 手動測試。通報會直接依當日完整持股統計前 30 名，因此第一次執行即可產生排名。
 
 ## 本機執行與測試
 
