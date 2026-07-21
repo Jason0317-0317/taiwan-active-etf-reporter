@@ -126,23 +126,54 @@ def diff(previous: list[Holding], current: list[Holding]) -> list[dict]:
     return rows
 
 
-def render_report(stamp: str, results: dict, failures: dict) -> str:
-    def n(value: int) -> str:
-        return f"{value:,}"
-    sections = []
-    total_changes = 0
+def aggregate_top_holdings(results: dict, limit: int = 30) -> list[dict]:
+    aggregated: dict[str, dict] = {}
     for ticker, item in results.items():
-        changes = item["changes"]
-        total_changes += len(changes)
-        if changes:
-            rows = "".join(f"<tr><td>{html.escape(x['kind'])}</td><td>{html.escape(x['code'])} {html.escape(x['name'])}</td><td>{n(x['shares_before'])} → {n(x['shares_after'])}</td><td>{x['weight_before']:.2f}% → {x['weight_after']:.2f}%</td></tr>" for x in changes)
-        else:
-            rows = '<tr><td colspan="4">無變動，或這是第一次建立快照</td></tr>'
-        top = "、".join(f"{html.escape(x.name)} {x.weight:.2f}%" for x in item["holdings"][:5])
-        sections.append(f"<section><h2>{ticker} {html.escape(item['name'])}</h2><p>共 {len(item['holdings'])} 檔；前五大：{top}</p><table><thead><tr><th>類型</th><th>標的</th><th>股數</th><th>權重</th></tr></thead><tbody>{rows}</tbody></table></section>")
-    failed = "" if not failures else "<h2>抓取失敗</h2><ul>" + "".join(f"<li>{html.escape(k)}：{html.escape(v)}</li>" for k, v in failures.items()) + "</ul>"
-    return f"""<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><style>body{{font-family:Arial,'Noto Sans TC',sans-serif;max-width:1000px;margin:auto;color:#172033}}h1{{color:#0d6b5f}}section{{margin:24px 0}}table{{border-collapse:collapse;width:100%}}th,td{{padding:8px;border-bottom:1px solid #ddd;text-align:left}}th{{background:#eef7f5}}.muted{{color:#657080}}</style></head><body><h1>台灣主動式 ETF 每日持股報告</h1><p class="muted">資料日期 {stamp}｜成功 {len(results)} 檔｜異動 {total_changes} 筆｜失敗 {len(failures)} 檔</p>{failed}{''.join(sections)}<p class="muted">資料來源為公開資訊彙整頁，僅供研究參考，不構成投資建議。</p></body></html>"""
+        for holding in item["holdings"]:
+            if holding.market_value_100m is None:
+                continue
+            row = aggregated.setdefault(
+                holding.code,
+                {
+                    "code": holding.code,
+                    "name": holding.name,
+                    "market_value_100m": 0.0,
+                    "etfs": set(),
+                },
+            )
+            row["market_value_100m"] += holding.market_value_100m
+            row["etfs"].add(ticker)
+    ranked = sorted(
+        aggregated.values(),
+        key=lambda row: (-row["market_value_100m"], row["code"]),
+    )
+    return [
+        {
+            **row,
+            "etf_count": len(row["etfs"]),
+            "etfs": sorted(row["etfs"]),
+        }
+        for row in ranked[:limit]
+    ]
 
+
+def render_report(stamp: str, results: dict, failures: dict) -> str:
+    top_holdings = aggregate_top_holdings(results)
+    if top_holdings:
+        rows = "".join(
+            f"<tr><td>{rank}</td>"
+            f"<td>{html.escape(item['code'])}</td>"
+            f"<td>{html.escape(item['name'])}</td>"
+            f"<td>{item['etf_count']}</td>"
+            f"<td>{item['market_value_100m']:,.2f}</td></tr>"
+            for rank, item in enumerate(top_holdings, 1)
+        )
+    else:
+        rows = '<tr><td colspan="5">沒有可供統計的持有金額資料</td></tr>'
+    failed = "" if not failures else "<h2>抓取失敗</h2><ul>" + "".join(
+        f"<li>{html.escape(k)}：{html.escape(v)}</li>" for k, v in failures.items()
+    ) + "</ul>"
+    return f"""<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><style>body{{font-family:Arial,'Noto Sans TC',sans-serif;max-width:1000px;margin:auto;color:#172033}}h1{{color:#0d6b5f}}section{{margin:24px 0}}table{{border-collapse:collapse;width:100%}}th,td{{padding:8px;border-bottom:1px solid #ddd;text-align:left}}th{{background:#eef7f5}}.muted{{color:#657080}}</style></head><body><h1>台灣主動式 ETF 持有金額前 30 名</h1><p class="muted">資料日期 {stamp}｜成功取得 {len(results)} 檔 ETF｜列出合計持有金額最高的 {len(top_holdings)} 檔股票｜失敗 {len(failures)} 檔</p>{failed}<section><p>同一支股票若由多檔 ETF 持有，市值會合併加總；金額單位為億元。</p><table><thead><tr><th>排名</th><th>代號</th><th>名稱</th><th>持有 ETF 數</th><th>合計持有金額（億）</th></tr></thead><tbody>{rows}</tbody></table></section><p class="muted">資料來源為公開資訊彙整頁，僅供研究參考，不構成投資建議。</p></body></html>"""
 
 def send_email(subject: str, body: str) -> None:
     username = os.environ.get("GMAIL_USERNAME")
@@ -182,7 +213,7 @@ def main() -> int:
     report = render_report(stamp, results, failures)
     (REPORT_DIR / "latest.html").write_text(report, encoding="utf-8")
     (REPORT_DIR / f"{stamp}.html").write_text(report, encoding="utf-8")
-    send_email(f"主動式 ETF 每日持股｜{stamp}｜異動 {sum(len(x['changes']) for x in results.values())} 筆", report)
+    send_email(f"主動式 ETF 持有金額前 30 名｜{stamp}", report)
     return 1 if not results else 0
 
 
