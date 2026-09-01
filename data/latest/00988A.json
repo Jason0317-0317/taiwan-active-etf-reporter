@@ -8,175 +8,168 @@
       "code": "LITE US",
       "name": "魯門特姆控股公司",
       "shares": 117000,
-      "weight": 6.2,
-      "market_value_100m": 1.05
+      "weight": 6.37,
+      "market_value_100m": 1.07
     },
     {
       "code": "3037",
       "name": "欣興",
       "shares": 2600000,
-      "weight": 5.4,
-      "market_value_100m": 28.86
-    },
-    {
-      "code": "2383",
-      "name": "台光電",
-      "shares": 445000,
-      "weight": 4.57,
-      "market_value_100m": 24.43
+      "weight": 4.87,
+      "market_value_100m": 25.97
     },
     {
       "code": "009150 KS",
       "name": "三星電機",
       "shares": 70000,
-      "weight": 4.24,
-      "market_value_100m": 983.5
+      "weight": 4.38,
+      "market_value_100m": 1008.7
     },
     {
-      "code": "6981 JP",
-      "name": "村田製作所有限公司",
-      "shares": 1350000,
-      "weight": 3.71,
-      "market_value_100m": 99.86
+      "code": "2383",
+      "name": "台光電",
+      "shares": 420000,
+      "weight": 4.32,
+      "market_value_100m": 23.04
     },
     {
       "code": "AMD US",
       "name": "ADVANCED MICRO DEVICES.amd us(超微半導體公司)",
       "shares": 130000,
-      "weight": 3.58,
+      "weight": 3.64,
       "market_value_100m": 0.61
+    },
+    {
+      "code": "6981 JP",
+      "name": "村田製作所有限公司",
+      "shares": 1350000,
+      "weight": 3.62,
+      "market_value_100m": 97.08
     },
     {
       "code": "MU US",
       "name": "美光科技公司",
       "shares": 60000,
-      "weight": 3.31,
-      "market_value_100m": 0.56
+      "weight": 3.42,
+      "market_value_100m": 0.58
     },
     {
       "code": "PANW US",
       "name": "Palo Alto Networks Inc",
       "shares": 150000,
-      "weight": 3.3,
-      "market_value_100m": 0.56
+      "weight": 3.41,
+      "market_value_100m": 0.57
     },
     {
       "code": "BE US",
       "name": "布魯姆能源公司",
       "shares": 250000,
-      "weight": 3.12,
-      "market_value_100m": 0.53
+      "weight": 3.07,
+      "market_value_100m": 0.52
     },
     {
       "code": "CRDO US",
       "name": "Credo科技集團控股有限公司",
       "shares": 225000,
-      "weight": 3.1,
-      "market_value_100m": 0.52
+      "weight": 3.03,
+      "market_value_100m": 0.51
     },
     {
       "code": "STX US",
       "name": "希捷科技控股公開有限公司",
       "shares": 60000,
-      "weight": 2.95,
+      "weight": 2.96,
       "market_value_100m": 0.5
     },
     {
       "code": "2330",
       "name": "台積電",
       "shares": 650000,
-      "weight": 2.95,
-      "market_value_100m": 15.73
-    },
-    {
-      "code": "TSEM US",
-      "name": "TOWER SEMICONDUCTOR LTD",
-      "shares": 216825,
-      "weight": 2.67,
-      "market_value_100m": 0.45
-    },
-    {
-      "code": "SNOW US",
-      "name": "Snowflake公司",
-      "shares": 130000,
-      "weight": 2.52,
-      "market_value_100m": 0.43
-    },
-    {
-      "code": "SPCX US",
-      "name": "太空探索科技公司",
-      "shares": 300000,
-      "weight": 2.51,
-      "market_value_100m": 0.42
-    },
-    {
-      "code": "285A JP",
-      "name": "鎧俠控股公司",
-      "shares": 140000,
-      "weight": 2.49,
-      "market_value_100m": 67.06
-    },
-    {
-      "code": "PLTR US",
-      "name": "帕蘭提爾科技公司",
-      "shares": 225000,
-      "weight": 2.48,
-      "market_value_100m": 0.42
+      "weight": 2.93,
+      "market_value_100m": 15.63
     },
     {
       "code": "CRCL US",
       "name": "Circle網路集團公司",
       "shares": 480000,
-      "weight": 2.48,
+      "weight": 2.73,
+      "market_value_100m": 0.46
+    },
+    {
+      "code": "TSEM US",
+      "name": "TOWER SEMICONDUCTOR LTD",
+      "shares": 216825,
+      "weight": 2.65,
+      "market_value_100m": 0.44
+    },
+    {
+      "code": "SPCX US",
+      "name": "太空探索科技公司",
+      "shares": 300000,
+      "weight": 2.57,
+      "market_value_100m": 0.43
+    },
+    {
+      "code": "SNOW US",
+      "name": "Snowflake公司",
+      "shares": 130000,
+      "weight": 2.56,
+      "market_value_100m": 0.43
+    },
+    {
+      "code": "PLTR US",
+      "name": "帕蘭提爾科技公司",
+      "shares": 225000,
+      "weight": 2.5,
       "market_value_100m": 0.42
     },
     {
       "code": "2308",
       "name": "台達電",
       "shares": 720000,
-      "weight": 2.47,
-      "market_value_100m": 13.18
+      "weight": 2.49,
+      "market_value_100m": 13.25
     },
     {
       "code": "3017",
       "name": "奇鋐科技",
       "shares": 365000,
-      "weight": 2.3,
-      "market_value_100m": 12.26
+      "weight": 2.35,
+      "market_value_100m": 12.5
     },
     {
       "code": "6223",
       "name": "旺矽科技",
       "shares": 242000,
-      "weight": 2.28,
-      "market_value_100m": 12.17
+      "weight": 2.33,
+      "market_value_100m": 12.41
     },
     {
-      "code": "MRVL US",
-      "name": "MARVELL TECHNOLOGY INC",
-      "shares": 150026,
-      "weight": 1.92,
-      "market_value_100m": 0.32
-    },
-    {
-      "code": "6871 JP",
-      "name": "MICRONICS JAPAN CO LTD",
-      "shares": 370000,
-      "weight": 1.79,
-      "market_value_100m": 48.17
+      "code": "285A JP",
+      "name": "鎧俠控股公司",
+      "shares": 110000,
+      "weight": 2.05,
+      "market_value_100m": 54.99
     },
     {
       "code": "300408 CH",
       "name": "CHAOZHOU THREE-CIRCLE GROU-A",
       "shares": 1749879,
-      "weight": 1.73,
-      "market_value_100m": 1.96
+      "weight": 1.78,
+      "market_value_100m": 2.01
+    },
+    {
+      "code": "6871 JP",
+      "name": "MICRONICS JAPAN CO LTD",
+      "shares": 370000,
+      "weight": 1.77,
+      "market_value_100m": 47.51
     },
     {
       "code": "IFX GY",
       "name": "英飛凌科技股份有限公司",
       "shares": 425000,
-      "weight": 1.67,
+      "weight": 1.65,
       "market_value_100m": 0.24
     },
     {
@@ -184,83 +177,97 @@
       "name": "連貫公司",
       "shares": 95000,
       "weight": 1.57,
-      "market_value_100m": 0.27
+      "market_value_100m": 0.26
+    },
+    {
+      "code": "MSFT US",
+      "name": "微軟",
+      "shares": 50000,
+      "weight": 1.51,
+      "market_value_100m": 0.25
     },
     {
       "code": "2454",
       "name": "聯發科技",
       "shares": 200000,
-      "weight": 1.49,
-      "market_value_100m": 7.97
+      "weight": 1.47,
+      "market_value_100m": 7.85
     },
     {
       "code": "4979",
       "name": "華星光",
       "shares": 1235000,
       "weight": 1.41,
-      "market_value_100m": 7.53
-    },
-    {
-      "code": "3308 HK",
-      "name": "ZHONGJI INNOLIGHT CO LTD-H",
-      "shares": 170000,
-      "weight": 1.34,
-      "market_value_100m": 1.77
-    },
-    {
-      "code": "MPWR US",
-      "name": "芯源系統有限公司",
-      "shares": 18000,
-      "weight": 1.34,
-      "market_value_100m": 0.23
+      "market_value_100m": 7.52
     },
     {
       "code": "6997 JP",
       "name": "NIPPON CHEMI-CON CORP",
       "shares": 1275100,
-      "weight": 1.34,
-      "market_value_100m": 36.01
+      "weight": 1.39,
+      "market_value_100m": 37.44
+    },
+    {
+      "code": "MPWR US",
+      "name": "芯源系統有限公司",
+      "shares": 18000,
+      "weight": 1.36,
+      "market_value_100m": 0.23
+    },
+    {
+      "code": "3308 HK",
+      "name": "ZHONGJI INNOLIGHT CO LTD-H",
+      "shares": 170000,
+      "weight": 1.33,
+      "market_value_100m": 1.75
+    },
+    {
+      "code": "NOW US",
+      "name": "ServiceNow公司",
+      "shares": 150000,
+      "weight": 1.32,
+      "market_value_100m": 0.22
     },
     {
       "code": "NET US",
       "name": "Cloudflare公司",
       "shares": 70000,
-      "weight": 1.24,
+      "weight": 1.27,
       "market_value_100m": 0.21
-    },
-    {
-      "code": "TER US",
-      "name": "泰瑞達公司",
-      "shares": 55000,
-      "weight": 1.16,
-      "market_value_100m": 0.2
     },
     {
       "code": "SNDK US",
       "name": "晟碟公司（德拉瓦州）",
       "shares": 13000,
-      "weight": 1.14,
-      "market_value_100m": 0.19
+      "weight": 1.21,
+      "market_value_100m": 0.2
     },
     {
-      "code": "000660 KS",
-      "name": "SK HYNIX INC",
-      "shares": 15000,
-      "weight": 1.07,
-      "market_value_100m": 248.7
+      "code": "TER US",
+      "name": "泰瑞達公司",
+      "shares": 55000,
+      "weight": 1.15,
+      "market_value_100m": 0.19
     },
     {
       "code": "301377 CH",
       "name": "GUANGDONG DTECH TECHNOLOGY-A",
       "shares": 291988,
-      "weight": 1.04,
-      "market_value_100m": 1.19
+      "weight": 1.09,
+      "market_value_100m": 1.23
+    },
+    {
+      "code": "000660 KS",
+      "name": "SK HYNIX INC",
+      "shares": 15000,
+      "weight": 1.08,
+      "market_value_100m": 247.95
     },
     {
       "code": "FORM US",
       "name": "FORMFACTOR INC",
       "shares": 150454,
-      "weight": 0.91,
+      "weight": 0.9,
       "market_value_100m": 0.15
     },
     {
@@ -274,8 +281,15 @@
       "code": "HOOD US",
       "name": "羅賓漢市場公司",
       "shares": 120000,
-      "weight": 0.74,
+      "weight": 0.75,
       "market_value_100m": 0.13
+    },
+    {
+      "code": "5801 JP",
+      "name": "古河電氣工業有限公司",
+      "shares": 500000,
+      "weight": 0.75,
+      "market_value_100m": 20.1
     },
     {
       "code": "AEM US",
@@ -285,24 +299,24 @@
       "market_value_100m": 0.12
     },
     {
-      "code": "5801 JP",
-      "name": "古河電氣工業有限公司",
-      "shares": 500000,
-      "weight": 0.72,
-      "market_value_100m": 19.52
-    },
-    {
       "code": "DASH US",
       "name": "DOORDASH INC - A",
       "shares": 50000,
-      "weight": 0.7,
+      "weight": 0.69,
       "market_value_100m": 0.12
+    },
+    {
+      "code": "4180 JP",
+      "name": "APPIER GROUP INC",
+      "shares": 950000,
+      "weight": 0.51,
+      "market_value_100m": 13.65
     },
     {
       "code": "AIXA GY",
       "name": "愛思強股份有限公司",
       "shares": 200000,
-      "weight": 0.5,
+      "weight": 0.49,
       "market_value_100m": 0.07
     },
     {
@@ -313,25 +327,18 @@
       "market_value_100m": 0.08
     },
     {
-      "code": "4180 JP",
-      "name": "APPIER GROUP INC",
-      "shares": 950000,
-      "weight": 0.47,
-      "market_value_100m": 12.55
-    },
-    {
       "code": "095340 KS",
       "name": "ISC CO LTD",
       "shares": 50000,
       "weight": 0.37,
-      "market_value_100m": 85.75
+      "market_value_100m": 85.25
     },
     {
       "code": "6274",
       "name": "台燿",
       "shares": 130000,
-      "weight": 0.36,
-      "market_value_100m": 1.94
+      "weight": 0.35,
+      "market_value_100m": 1.87
     }
   ]
 }
