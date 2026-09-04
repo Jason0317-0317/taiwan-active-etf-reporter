@@ -1,0 +1,51 @@
+﻿code,name,shares,weight,market_value_100m
+NVDA US,NVIDIA CORP(輝達公司),83000,8.95,0.19
+AAPL US,蘋果公司,50100,7.77,0.16
+MU US,美光科技公司,14300,6.48,0.14
+MSFT US,微軟,22400,5.4,0.11
+AMD US,ADVANCED MICRO DEVICES.amd us(超微半導體公司),21600,4.66,0.1
+AMZN US,亞馬遜公司,38000,4.65,0.1
+GOOGL US,ALPHABET INC-CL A(Alphabet公司),22300,3.61,0.08
+GOOG US,Alphabet公司 Class C,19800,3.17,0.07
+META US,Meta平台公司,10500,3.03,0.06
+LRCX US,科林研發股份有限公司,19200,2.66,0.06
+PANW US,Palo Alto Networks Inc,15600,2.45,0.05
+WDC US,威騰電子公司,10600,2.21,0.05
+AVGO US,博通公司,13000,2.19,0.05
+TXN US,德州儀器公司,17800,2.14,0.05
+PLTR US,帕蘭提爾科技公司,21500,1.85,0.04
+ADI US,Analog Devices Inc,10700,1.8,0.04
+COHR US,連貫公司,14400,1.8,0.04
+LITE US,魯門特姆控股公司,4400,1.76,0.04
+ASML US,ASML Holding NV,2100,1.63,0.03
+KLAC US,科磊公司,18500,1.51,0.03
+CRWD US,Crowdstrike控股公司,14700,1.49,0.03
+TSM US,台積電,7500,1.48,0.03
+SNOW US,Snowflake公司,8300,1.4,0.03
+CDNS US,Cadence設計系統公司,9600,1.38,0.03
+V US,威士卡,7300,1.31,0.03
+INTC US,英特爾,28700,1.24,0.03
+MCHP US,Microchip Technology Inc,33200,1.15,0.02
+MRVL US,MARVELL TECHNOLOGY INC,11600,1.14,0.02
+SKHY US,SK hynix Inc,13900,1.08,0.02
+AXON US,泰瑟國際公司,4000,1.02,0.02
+STX US,希捷科技控股公開有限公司,2700,1.02,0.02
+ARM US,安謀控股公開有限公司,8500,0.97,0.02
+NFLX US,Netflix Inc,24100,0.94,0.02
+BKNG US,Booking Holdings Inc,10000,0.92,0.02
+CIEN US,喜雅納公司,6100,0.92,0.02
+SHOP US,Shopify公司,13300,0.92,0.02
+CLS US,Celestica Inc,6100,0.89,0.02
+NOW US,ServiceNow公司,12900,0.89,0.02
+ANET US,Arista網路公司,9300,0.84,0.02
+TER US,泰瑞達公司,5100,0.82,0.02
+SPCX US,太空探索科技公司,11300,0.8,0.02
+SIMO US,Silicon Motion Technology Corp,6600,0.74,0.02
+MDB US,MongoDB Inc,3800,0.69,0.01
+TTWO US,Take-Two Interactive Software Inc,6800,0.69,0.01
+DASH US,DoorDash Inc,5500,0.58,0.01
+SPOT US,Spotify Technology SA,2100,0.56,0.01
+BABA US,阿里巴巴,10400,0.55,0.01
+UBER US,Uber Technologies Inc,14200,0.51,0.01
+IOT US,森萬聯有限公司,19600,0.36,0.01
+FSLY US,Fastly Inc,33100,0.33,0.01
