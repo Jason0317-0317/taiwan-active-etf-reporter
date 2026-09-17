@@ -1,0 +1,50 @@
+﻿code,name,shares,weight,market_value_100m
+NVDA US,NVIDIA CORP(輝達公司),83000,8.55,0.18
+AAPL US,蘋果公司,50100,8.02,0.17
+MU US,美光科技公司,13900,6.2,0.13
+AMD US,ADVANCED MICRO DEVICES.amd us(超微半導體公司),21600,5.33,0.11
+MSFT US,微軟,22400,5.29,0.11
+AMZN US,亞馬遜公司,38000,4.5,0.09
+GOOGL US,ALPHABET INC-CL A(Alphabet公司),22300,3.68,0.08
+META US,Meta平台公司,10500,3.4,0.07
+GOOG US,Alphabet公司 Class C,19800,3.24,0.07
+PANW US,Palo Alto Networks Inc,15600,2.82,0.06
+LRCX US,科林研發股份有限公司,19200,2.49,0.05
+TXN US,德州儀器公司,17800,2.23,0.05
+AVGO US,博通公司,13000,2.13,0.04
+WDC US,威騰電子公司,10600,2.13,0.04
+INTC US,英特爾,39200,1.91,0.04
+ADI US,Analog Devices Inc,10700,1.87,0.04
+PLTR US,帕蘭提爾科技公司,21500,1.8,0.04
+LITE US,魯門特姆控股公司,3900,1.73,0.04
+CRWD US,Crowdstrike控股公司,14700,1.71,0.04
+COHR US,連貫公司,11700,1.63,0.03
+TSM US,台積電,7500,1.51,0.03
+KLAC US,科磊公司,18500,1.49,0.03
+V US,威士卡,7300,1.3,0.03
+CDNS US,Cadence設計系統公司,9600,1.29,0.03
+MRVL US,MARVELL TECHNOLOGY INC,11600,1.28,0.03
+STX US,希捷科技控股公開有限公司,3400,1.28,0.03
+ASML US,ASML Holding NV,1600,1.23,0.03
+CIEN US,喜雅納公司,7300,1.2,0.02
+MCHP US,Microchip Technology Inc,33200,1.11,0.02
+SNOW US,Snowflake公司,6900,1.1,0.02
+SKHY US,SK hynix Inc,12800,1.08,0.02
+CLS US,Celestica Inc,6100,0.95,0.02
+AXON US,泰瑟國際公司,4000,0.9,0.02
+NFLX US,Netflix Inc,24100,0.89,0.02
+ANET US,Arista網路公司,9300,0.88,0.02
+NOW US,ServiceNow公司,12900,0.87,0.02
+TER US,泰瑞達公司,5100,0.84,0.02
+BKNG US,Booking Holdings Inc,10000,0.83,0.02
+SHOP US,Shopify公司,13300,0.83,0.02
+SPCX US,太空探索科技公司,11300,0.82,0.02
+SIMO US,Silicon Motion Technology Corp,6600,0.77,0.02
+TTWO US,Take-Two Interactive Software Inc,6800,0.69,0.01
+IOT US,森萬聯有限公司,28600,0.56,0.01
+SPOT US,Spotify Technology SA,2100,0.55,0.01
+BABA US,阿里巴巴,10400,0.54,0.01
+DASH US,DoorDash Inc,5500,0.52,0.01
+UBER US,Uber Technologies Inc,14200,0.49,0.01
+MDB US,MongoDB Inc,2500,0.45,0.01
+FSLY US,Fastly Inc,33100,0.38,0.01
