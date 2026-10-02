@@ -8,56 +8,56 @@
       "code": "BE US",
       "name": "布魯姆能源公司",
       "shares": 47392,
-      "weight": 9.66,
+      "weight": 9.61,
       "market_value_100m": 0.13
-    },
-    {
-      "code": "SPCX US",
-      "name": "太空探索科技公司",
-      "shares": 76874,
-      "weight": 8.53,
-      "market_value_100m": 0.12
     },
     {
       "code": "NVDA US",
       "name": "NVIDIA CORP(輝達公司)",
       "shares": 50262,
-      "weight": 8.44,
-      "market_value_100m": 0.11
+      "weight": 8.48,
+      "market_value_100m": 0.12
     },
     {
-      "code": "PLTR US",
-      "name": "帕蘭提爾科技公司",
-      "shares": 51297,
-      "weight": 7.06,
-      "market_value_100m": 0.1
+      "code": "SPCX US",
+      "name": "太空探索科技公司",
+      "shares": 76874,
+      "weight": 8.32,
+      "market_value_100m": 0.11
     },
     {
       "code": "LITE US",
       "name": "魯門特姆控股公司",
       "shares": 9539,
-      "weight": 6.82,
-      "market_value_100m": 0.09
+      "weight": 7.29,
+      "market_value_100m": 0.1
+    },
+    {
+      "code": "PLTR US",
+      "name": "帕蘭提爾科技公司",
+      "shares": 51297,
+      "weight": 7.12,
+      "market_value_100m": 0.1
     },
     {
       "code": "8996",
       "name": "高力熱處理工業",
       "shares": 174000,
-      "weight": 6.46,
-      "market_value_100m": 2.79
+      "weight": 6.24,
+      "market_value_100m": 2.72
     },
     {
       "code": "3443",
       "name": "創意",
       "shares": 33000,
-      "weight": 6.13,
-      "market_value_100m": 2.65
+      "weight": 5.97,
+      "market_value_100m": 2.61
     },
     {
       "code": "CRWD US",
       "name": "Crowdstrike控股公司",
       "shares": 27377,
-      "weight": 5.33,
+      "weight": 5.32,
       "market_value_100m": 0.07
     },
     {
@@ -71,50 +71,50 @@
       "code": "NBIS US",
       "name": "尼比厄斯集團公眾有限公司",
       "shares": 29091,
-      "weight": 5.05,
+      "weight": 4.94,
       "market_value_100m": 0.07
     },
     {
       "code": "NET US",
       "name": "Cloudflare公司",
       "shares": 14742,
-      "weight": 3.77,
+      "weight": 3.78,
       "market_value_100m": 0.05
     },
     {
       "code": "ANET US",
       "name": "Arista網路公司",
       "shares": 23297,
-      "weight": 3.49,
+      "weight": 3.48,
       "market_value_100m": 0.05
     },
     {
       "code": "581A JP",
       "name": "GO INC",
       "shares": 179700,
-      "weight": 2.89,
-      "market_value_100m": 6.17
+      "weight": 2.81,
+      "market_value_100m": 6.08
     },
     {
       "code": "NTSK US",
       "name": "NETSKOPE INC-CL A",
       "shares": 210458,
-      "weight": 2.7,
+      "weight": 2.74,
       "market_value_100m": 0.04
+    },
+    {
+      "code": "4062 JP",
+      "name": "揖斐電有限公司",
+      "shares": 49400,
+      "weight": 2.74,
+      "market_value_100m": 5.93
     },
     {
       "code": "6669",
       "name": "緯穎科技服務",
       "shares": 55518,
       "weight": 2.68,
-      "market_value_100m": 1.16
-    },
-    {
-      "code": "4062 JP",
-      "name": "揖斐電有限公司",
-      "shares": 49400,
-      "weight": 2.56,
-      "market_value_100m": 5.45
+      "market_value_100m": 1.17
     },
     {
       "code": "SNOW US",
@@ -127,28 +127,28 @@
       "code": "MU US",
       "name": "美光科技公司",
       "shares": 1436,
-      "weight": 1.13,
+      "weight": 1.15,
       "market_value_100m": 0.02
     },
     {
       "code": "TSLA US",
       "name": "特斯拉公司",
       "shares": 3983,
-      "weight": 1.04,
+      "weight": 1.03,
       "market_value_100m": 0.01
     },
     {
       "code": "SMTC US",
       "name": "SEMTECH CORP",
       "shares": 5123,
-      "weight": 0.67,
+      "weight": 0.7,
       "market_value_100m": 0.01
     },
     {
       "code": "GOOGL US",
       "name": "ALPHABET INC-CL A(Alphabet公司)",
       "shares": 2654,
-      "weight": 0.67,
+      "weight": 0.66,
       "market_value_100m": 0.01
     },
     {
@@ -156,13 +156,13 @@
       "name": "奇鋐科技",
       "shares": 8000,
       "weight": 0.64,
-      "market_value_100m": 0.27
+      "market_value_100m": 0.28
     },
     {
       "code": "MSFT US",
       "name": "微軟",
       "shares": 1183,
-      "weight": 0.45,
+      "weight": 0.44,
       "market_value_100m": 0.01
     },
     {
@@ -176,8 +176,8 @@
       "code": "285A JP",
       "name": "鎧俠控股公司",
       "shares": 4800,
-      "weight": 0.41,
-      "market_value_100m": 0.87
+      "weight": 0.42,
+      "market_value_100m": 0.92
     },
     {
       "code": "IONQ US",
@@ -187,25 +187,25 @@
       "market_value_100m": 0.01
     },
     {
-      "code": "AMZN US",
-      "name": "亞馬遜公司",
-      "shares": 2107,
-      "weight": 0.39,
-      "market_value_100m": 0.01
-    },
-    {
       "code": "3037",
       "name": "欣興",
       "shares": 14000,
+      "weight": 0.39,
+      "market_value_100m": 0.17
+    },
+    {
+      "code": "AMZN US",
+      "name": "亞馬遜公司",
+      "shares": 2107,
       "weight": 0.38,
-      "market_value_100m": 0.16
+      "market_value_100m": 0.01
     },
     {
       "code": "RKLB US",
       "name": "火箭實驗室美國公司",
       "shares": 7119,
-      "weight": 0.36,
-      "market_value_100m": 0.0
+      "weight": 0.37,
+      "market_value_100m": 0.01
     },
     {
       "code": "STX US",
@@ -218,7 +218,7 @@
       "code": "SITM US",
       "name": "SITIME CORP",
       "shares": 475,
-      "weight": 0.23,
+      "weight": 0.24,
       "market_value_100m": 0.0
     }
   ]

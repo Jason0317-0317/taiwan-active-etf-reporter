@@ -8,364 +8,364 @@
       "code": "2330",
       "name": "台積電",
       "shares": 1794000,
-      "weight": 8.8907,
-      "market_value_100m": 44.49
+      "weight": 8.6562,
+      "market_value_100m": 45.03
     },
     {
       "code": "2454",
       "name": "聯發科技",
       "shares": 736000,
-      "weight": 7.2368,
-      "market_value_100m": 36.21
+      "weight": 7.0315,
+      "market_value_100m": 36.65
     },
     {
       "code": "3105",
       "name": "穩懋",
       "shares": 5709000,
-      "weight": 6.0643,
-      "market_value_100m": 30.71
+      "weight": 6.512,
+      "market_value_100m": 33.74
     },
     {
       "code": "6139",
       "name": "亞翔",
-      "shares": 3700000,
-      "weight": 5.5447,
-      "market_value_100m": 28.08
-    },
-    {
-      "code": "6669",
-      "name": "緯穎科技服務",
-      "shares": 1016225,
-      "weight": 4.2336,
-      "market_value_100m": 21.24
+      "shares": 3715000,
+      "weight": 5.5568,
+      "market_value_100m": 28.79
     },
     {
       "code": "2059",
       "name": "川湖科技",
       "shares": 179000,
-      "weight": 4.1827,
-      "market_value_100m": 21.58
+      "weight": 4.1958,
+      "market_value_100m": 21.18
+    },
+    {
+      "code": "6669",
+      "name": "緯穎科技服務",
+      "shares": 1016225,
+      "weight": 4.0894,
+      "market_value_100m": 21.44
     },
     {
       "code": "6531",
       "name": "愛普科技",
       "shares": 2041000,
-      "weight": 3.7598,
-      "market_value_100m": 18.92
-    },
-    {
-      "code": "3491",
-      "name": "昇達科",
-      "shares": 1180000,
-      "weight": 3.4714,
-      "market_value_100m": 17.7
+      "weight": 3.9392,
+      "market_value_100m": 19.04
     },
     {
       "code": "2360",
       "name": "致茂電子",
-      "shares": 815000,
-      "weight": 3.347,
-      "market_value_100m": 17.4
+      "shares": 845000,
+      "weight": 3.5716,
+      "market_value_100m": 17.58
     },
     {
       "code": "4958",
       "name": "臻鼎-KY",
       "shares": 3158000,
-      "weight": 3.1799,
-      "market_value_100m": 16.01
+      "weight": 3.4193,
+      "market_value_100m": 16.11
     },
     {
-      "code": "3008",
-      "name": "大立光",
-      "shares": 251000,
-      "weight": 3.075,
-      "market_value_100m": 14.92
+      "code": "3491",
+      "name": "昇達科",
+      "shares": 1180000,
+      "weight": 3.382,
+      "market_value_100m": 17.58
     },
     {
       "code": "2383",
       "name": "台光電",
       "shares": 309000,
-      "weight": 3.0352,
-      "market_value_100m": 15.25
+      "weight": 3.0922,
+      "market_value_100m": 15.37
     },
     {
       "code": "6223",
       "name": "旺矽科技",
       "shares": 301000,
-      "weight": 2.9893,
-      "market_value_100m": 15.43
+      "weight": 3.0848,
+      "market_value_100m": 15.14
     },
     {
-      "code": "3017",
-      "name": "奇鋐科技",
-      "shares": 372000,
-      "weight": 2.578,
-      "market_value_100m": 12.78
+      "code": "3008",
+      "name": "大立光",
+      "shares": 251000,
+      "weight": 3.0471,
+      "market_value_100m": 15.57
     },
     {
       "code": "6488",
       "name": "環球晶",
       "shares": 1082000,
-      "weight": 2.3179,
+      "weight": 2.4851,
       "market_value_100m": 11.74
+    },
+    {
+      "code": "3017",
+      "name": "奇鋐科技",
+      "shares": 372000,
+      "weight": 2.4698,
+      "market_value_100m": 13.06
     },
     {
       "code": "2301",
       "name": "光寶科技",
       "shares": 3216000,
-      "weight": 1.8065,
-      "market_value_100m": 8.99
+      "weight": 1.7472,
+      "market_value_100m": 9.15
     },
     {
       "code": "2455",
       "name": "全新",
       "shares": 1529000,
-      "weight": 1.6483,
-      "market_value_100m": 8.35
+      "weight": 1.7116,
+      "market_value_100m": 8.87
     },
     {
       "code": "2303",
       "name": "聯電",
       "shares": 5116000,
-      "weight": 1.6313,
-      "market_value_100m": 7.9
+      "weight": 1.5946,
+      "market_value_100m": 8.26
     },
     {
       "code": "5483",
       "name": "中美晶",
       "shares": 3415000,
-      "weight": 1.426,
-      "market_value_100m": 7.22
+      "weight": 1.4599,
+      "market_value_100m": 7.56
     },
     {
       "code": "2395",
       "name": "研華",
       "shares": 964000,
-      "weight": 1.3761,
-      "market_value_100m": 6.97
+      "weight": 1.3321,
+      "market_value_100m": 6.9
     },
     {
       "code": "3231",
       "name": "緯創資通",
       "shares": 3638000,
-      "weight": 1.3683,
-      "market_value_100m": 6.71
-    },
-    {
-      "code": "5274",
-      "name": "信驊科技",
-      "shares": 35900,
-      "weight": 1.3495,
-      "market_value_100m": 6.73
-    },
-    {
-      "code": "6214",
-      "name": "精誠",
-      "shares": 3438000,
-      "weight": 1.2829,
-      "market_value_100m": 6.5
+      "weight": 1.3095,
+      "market_value_100m": 6.93
     },
     {
       "code": "6274",
       "name": "台燿",
       "shares": 418000,
-      "weight": 1.2668,
-      "market_value_100m": 6.35
+      "weight": 1.3069,
+      "market_value_100m": 6.42
     },
     {
-      "code": "2376",
-      "name": "技嘉",
-      "shares": 1737000,
-      "weight": 1.2638,
-      "market_value_100m": 6.4
+      "code": "5274",
+      "name": "信驊科技",
+      "shares": 35900,
+      "weight": 1.3054,
+      "market_value_100m": 6.84
     },
     {
       "code": "5425",
       "name": "台半",
       "shares": 6382000,
-      "weight": 1.2285,
-      "market_value_100m": 6.22
+      "weight": 1.2563,
+      "market_value_100m": 6.51
     },
     {
-      "code": "3711",
-      "name": "日月光投資控股",
-      "shares": 876000,
-      "weight": 1.228,
-      "market_value_100m": 6.16
+      "code": "2376",
+      "name": "技嘉",
+      "shares": 1737000,
+      "weight": 1.2521,
+      "market_value_100m": 6.49
     },
     {
-      "code": "3265",
-      "name": "台星科股份有限公司",
-      "shares": 3345000,
-      "weight": 1.2218,
-      "market_value_100m": 6.19
+      "code": "6214",
+      "name": "精誠",
+      "shares": 3438000,
+      "weight": 1.2507,
+      "market_value_100m": 6.48
     },
     {
       "code": "6213",
       "name": "聯茂",
       "shares": 940000,
-      "weight": 1.1915,
-      "market_value_100m": 6.03
+      "weight": 1.2391,
+      "market_value_100m": 6.42
     },
     {
-      "code": "8996",
-      "name": "高力熱處理工業",
-      "shares": 382000,
-      "weight": 1.1803,
-      "market_value_100m": 6.13
+      "code": "3265",
+      "name": "台星科股份有限公司",
+      "shares": 3345000,
+      "weight": 1.2137,
+      "market_value_100m": 6.29
+    },
+    {
+      "code": "3711",
+      "name": "日月光投資控股",
+      "shares": 876000,
+      "weight": 1.2054,
+      "market_value_100m": 6.22
     },
     {
       "code": "2428",
       "name": "興勤電子工業",
       "shares": 2268000,
-      "weight": 1.1687,
-      "market_value_100m": 5.92
+      "weight": 1.1512,
+      "market_value_100m": 5.96
     },
     {
       "code": "6239",
       "name": "力成科技",
       "shares": 1910000,
-      "weight": 1.103,
-      "market_value_100m": 5.59
+      "weight": 1.1354,
+      "market_value_100m": 5.88
+    },
+    {
+      "code": "8996",
+      "name": "高力熱處理工業",
+      "shares": 382000,
+      "weight": 1.1132,
+      "market_value_100m": 5.98
     },
     {
       "code": "3583",
       "name": "辛耘",
       "shares": 790000,
-      "weight": 1.1027,
-      "market_value_100m": 5.59
+      "weight": 1.0993,
+      "market_value_100m": 5.7
     },
     {
       "code": "3090",
       "name": "日電貿",
       "shares": 3280000,
-      "weight": 1.0944,
-      "market_value_100m": 5.54
+      "weight": 1.0983,
+      "market_value_100m": 5.69
     },
     {
       "code": "2467",
       "name": "志聖",
       "shares": 1000000,
-      "weight": 1.0721,
-      "market_value_100m": 5.43
+      "weight": 1.0653,
+      "market_value_100m": 5.52
     },
     {
       "code": "2478",
       "name": "大毅",
       "shares": 4331000,
-      "weight": 1.0646,
-      "market_value_100m": 5.39
+      "weight": 1.0616,
+      "market_value_100m": 5.5
     },
     {
       "code": "2377",
       "name": "微星",
       "shares": 3344000,
-      "weight": 1.0068,
-      "market_value_100m": 5.1
-    },
-    {
-      "code": "6472",
-      "name": "保瑞",
-      "shares": 1032000,
-      "weight": 0.8751,
-      "market_value_100m": 4.43
-    },
-    {
-      "code": "5536",
-      "name": "聖暉*",
-      "shares": 455000,
-      "weight": 0.8615,
-      "market_value_100m": 4.36
+      "weight": 1.0003,
+      "market_value_100m": 5.18
     },
     {
       "code": "2345",
       "name": "智邦科技",
       "shares": 222000,
-      "weight": 0.8328,
-      "market_value_100m": 3.94
+      "weight": 0.8419,
+      "market_value_100m": 4.22
+    },
+    {
+      "code": "5536",
+      "name": "聖暉*",
+      "shares": 455000,
+      "weight": 0.8395,
+      "market_value_100m": 4.35
+    },
+    {
+      "code": "6472",
+      "name": "保瑞",
+      "shares": 1032000,
+      "weight": 0.8375,
+      "market_value_100m": 4.34
     },
     {
       "code": "2486",
       "name": "一詮精密",
       "shares": 1607000,
-      "weight": 0.7884,
-      "market_value_100m": 3.99
+      "weight": 0.7598,
+      "market_value_100m": 3.94
     },
     {
       "code": "3529",
       "name": "力旺電子",
       "shares": 93000,
-      "weight": 0.5958,
-      "market_value_100m": 3.07
+      "weight": 0.5689,
+      "market_value_100m": 3.02
     },
     {
       "code": "6672",
       "name": "騰輝電子-KY",
       "shares": 527000,
-      "weight": 0.4219,
-      "market_value_100m": 2.14
+      "weight": 0.4465,
+      "market_value_100m": 2.31
     },
     {
       "code": "6196",
       "name": "帆宣",
       "shares": 304000,
-      "weight": 0.3613,
-      "market_value_100m": 1.83
+      "weight": 0.3626,
+      "market_value_100m": 1.88
     },
     {
       "code": "8070",
       "name": "長華*",
       "shares": 3212000,
-      "weight": 0.3183,
+      "weight": 0.3143,
+      "market_value_100m": 1.63
+    },
+    {
+      "code": "2476",
+      "name": "鉅祥",
+      "shares": 1281000,
+      "weight": 0.3115,
       "market_value_100m": 1.61
     },
     {
       "code": "6640",
       "name": "均華",
       "shares": 143000,
-      "weight": 0.3134,
-      "market_value_100m": 1.59
-    },
-    {
-      "code": "2476",
-      "name": "鉅祥",
-      "shares": 1281000,
-      "weight": 0.311,
-      "market_value_100m": 1.58
+      "weight": 0.3104,
+      "market_value_100m": 1.61
     },
     {
       "code": "3617",
       "name": "碩天",
       "shares": 627000,
-      "weight": 0.3008,
-      "market_value_100m": 1.52
+      "weight": 0.2946,
+      "market_value_100m": 1.53
     },
     {
       "code": "2885",
       "name": "元大金",
       "shares": 2213556,
-      "weight": 0.2945,
-      "market_value_100m": 1.49
+      "weight": 0.2853,
+      "market_value_100m": 1.48
     },
     {
       "code": "6446",
       "name": "藥華醫藥",
       "shares": 42000,
-      "weight": 0.097,
-      "market_value_100m": 0.51
+      "weight": 0.0944,
+      "market_value_100m": 0.49
     },
     {
       "code": "6177",
       "name": "達麗",
       "shares": 194350,
-      "weight": 0.0179,
+      "weight": 0.0172,
       "market_value_100m": 0.09
     },
     {
       "code": "3443",
       "name": "創意",
       "shares": 1000,
-      "weight": 0.0155,
+      "weight": 0.0152,
       "market_value_100m": 0.08
     },
     {
@@ -379,7 +379,7 @@
       "code": "8358",
       "name": "金居",
       "shares": 1000,
-      "weight": 0.0009,
+      "weight": 0.001,
       "market_value_100m": 0.01
     },
     {

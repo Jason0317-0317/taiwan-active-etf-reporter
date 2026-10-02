@@ -8,266 +8,266 @@
       "code": "NVDA US",
       "name": "NVIDIA CORP(輝達公司)",
       "shares": 72100,
-      "weight": 8.56,
-      "market_value_100m": 0.16
+      "weight": 8.65,
+      "market_value_100m": 0.17
     },
     {
       "code": "AAPL US",
       "name": "蘋果公司",
       "shares": 43800,
-      "weight": 7.54,
-      "market_value_100m": 0.15
+      "weight": 7.55,
+      "market_value_100m": 0.14
     },
     {
       "code": "MU US",
       "name": "美光科技公司",
-      "shares": 12000,
-      "weight": 6.61,
+      "shares": 11400,
+      "weight": 6.53,
       "market_value_100m": 0.13
     },
     {
       "code": "AMD US",
       "name": "ADVANCED MICRO DEVICES.amd us(超微半導體公司)",
       "shares": 19300,
-      "weight": 6.1,
+      "weight": 6.2,
       "market_value_100m": 0.12
     },
     {
       "code": "MSFT US",
       "name": "微軟",
       "shares": 18700,
-      "weight": 4.96,
+      "weight": 5.0,
       "market_value_100m": 0.1
-    },
-    {
-      "code": "META US",
-      "name": "Meta平台公司",
-      "shares": 10500,
-      "weight": 3.94,
-      "market_value_100m": 0.08
     },
     {
       "code": "AMZN US",
       "name": "亞馬遜公司",
       "shares": 29400,
-      "weight": 3.79,
+      "weight": 3.81,
+      "market_value_100m": 0.07
+    },
+    {
+      "code": "META US",
+      "name": "Meta平台公司",
+      "shares": 9700,
+      "weight": 3.67,
       "market_value_100m": 0.07
     },
     {
       "code": "GOOGL US",
       "name": "ALPHABET INC-CL A(Alphabet公司)",
       "shares": 18900,
-      "weight": 3.36,
-      "market_value_100m": 0.07
+      "weight": 3.34,
+      "market_value_100m": 0.06
     },
     {
       "code": "GOOG US",
       "name": "Alphabet公司 Class C",
       "shares": 17100,
-      "weight": 3.01,
+      "weight": 2.99,
       "market_value_100m": 0.06
-    },
-    {
-      "code": "PANW US",
-      "name": "Palo Alto Networks Inc",
-      "shares": 13800,
-      "weight": 2.83,
-      "market_value_100m": 0.05
     },
     {
       "code": "LRCX US",
       "name": "科林研發股份有限公司",
-      "shares": 16500,
-      "weight": 2.8,
+      "shares": 15900,
+      "weight": 2.82,
       "market_value_100m": 0.05
     },
     {
-      "code": "WDC US",
-      "name": "威騰電子公司",
-      "shares": 10600,
-      "weight": 2.49,
+      "code": "PANW US",
+      "name": "Palo Alto Networks Inc",
+      "shares": 13200,
+      "weight": 2.73,
       "market_value_100m": 0.05
     },
     {
       "code": "AVGO US",
       "name": "博通公司",
       "shares": 13000,
-      "weight": 2.36,
-      "market_value_100m": 0.05
+      "weight": 2.33,
+      "market_value_100m": 0.04
+    },
+    {
+      "code": "WDC US",
+      "name": "威騰電子公司",
+      "shares": 9600,
+      "weight": 2.32,
+      "market_value_100m": 0.04
     },
     {
       "code": "TXN US",
       "name": "德州儀器公司",
       "shares": 15500,
-      "weight": 2.24,
+      "weight": 2.28,
       "market_value_100m": 0.04
     },
     {
       "code": "PLTR US",
       "name": "帕蘭提爾科技公司",
       "shares": 19800,
-      "weight": 1.91,
+      "weight": 1.96,
       "market_value_100m": 0.04
-    },
-    {
-      "code": "CRWD US",
-      "name": "Crowdstrike控股公司",
-      "shares": 12800,
-      "weight": 1.75,
-      "market_value_100m": 0.03
     },
     {
       "code": "LITE US",
       "name": "魯門特姆控股公司",
       "shares": 3400,
-      "weight": 1.71,
-      "market_value_100m": 0.03
+      "weight": 1.86,
+      "market_value_100m": 0.04
     },
     {
       "code": "ADI US",
       "name": "亞德諾公司",
       "shares": 8300,
-      "weight": 1.7,
-      "market_value_100m": 0.03
-    },
-    {
-      "code": "KLAC US",
-      "name": "科磊公司",
-      "shares": 16300,
-      "weight": 1.64,
-      "market_value_100m": 0.03
-    },
-    {
-      "code": "INTC US",
-      "name": "英特爾",
-      "shares": 26200,
-      "weight": 1.63,
+      "weight": 1.75,
       "market_value_100m": 0.03
     },
     {
       "code": "STX US",
       "name": "希捷科技控股公開有限公司",
       "shares": 3400,
-      "weight": 1.62,
+      "weight": 1.68,
+      "market_value_100m": 0.03
+    },
+    {
+      "code": "CRWD US",
+      "name": "Crowdstrike控股公司",
+      "shares": 11900,
+      "weight": 1.65,
+      "market_value_100m": 0.03
+    },
+    {
+      "code": "INTC US",
+      "name": "英特爾",
+      "shares": 26200,
+      "weight": 1.64,
       "market_value_100m": 0.03
     },
     {
       "code": "MRVL US",
       "name": "MARVELL TECHNOLOGY INC",
       "shares": 11600,
-      "weight": 1.58,
+      "weight": 1.62,
+      "market_value_100m": 0.03
+    },
+    {
+      "code": "KLAC US",
+      "name": "科磊公司",
+      "shares": 15300,
+      "weight": 1.6,
       "market_value_100m": 0.03
     },
     {
       "code": "CDNS US",
       "name": "Cadence設計系統公司",
-      "shares": 9000,
+      "shares": 8400,
       "weight": 1.54,
       "market_value_100m": 0.03
     },
     {
       "code": "TSM US",
       "name": "台積電",
-      "shares": 6500,
-      "weight": 1.53,
+      "shares": 6000,
+      "weight": 1.44,
+      "market_value_100m": 0.03
+    },
+    {
+      "code": "COHR US",
+      "name": "連貫公司",
+      "shares": 8200,
+      "weight": 1.37,
       "market_value_100m": 0.03
     },
     {
       "code": "MCHP US",
       "name": "Microchip Technology Inc",
       "shares": 33200,
-      "weight": 1.33,
+      "weight": 1.36,
       "market_value_100m": 0.03
-    },
-    {
-      "code": "COHR US",
-      "name": "連貫公司",
-      "shares": 8900,
-      "weight": 1.32,
-      "market_value_100m": 0.03
-    },
-    {
-      "code": "SKHY US",
-      "name": "SK hynix Inc",
-      "shares": 12800,
-      "weight": 1.22,
-      "market_value_100m": 0.02
     },
     {
       "code": "CIEN US",
       "name": "喜雅納公司",
       "shares": 6500,
-      "weight": 1.18,
+      "weight": 1.29,
+      "market_value_100m": 0.02
+    },
+    {
+      "code": "SKHY US",
+      "name": "SK hynix Inc",
+      "shares": 12800,
+      "weight": 1.29,
       "market_value_100m": 0.02
     },
     {
       "code": "CLS US",
       "name": "Celestica Inc",
       "shares": 6100,
-      "weight": 1.14,
+      "weight": 1.19,
       "market_value_100m": 0.02
     },
     {
       "code": "ASML US",
       "name": "ASML Holding NV",
       "shares": 1200,
-      "weight": 1.12,
+      "weight": 1.13,
       "market_value_100m": 0.02
     },
     {
       "code": "SNOW US",
       "name": "Snowflake公司",
       "shares": 6300,
-      "weight": 1.11,
+      "weight": 1.12,
       "market_value_100m": 0.02
     },
     {
       "code": "V US",
       "name": "威士卡",
       "shares": 5200,
-      "weight": 0.97,
-      "market_value_100m": 0.02
-    },
-    {
-      "code": "ARM US",
-      "name": "安謀控股公開有限公司",
-      "shares": 6000,
-      "weight": 0.9,
-      "market_value_100m": 0.02
-    },
-    {
-      "code": "SHOP US",
-      "name": "Shopify公司",
-      "shares": 11800,
-      "weight": 0.9,
+      "weight": 0.98,
       "market_value_100m": 0.02
     },
     {
       "code": "NOW US",
       "name": "ServiceNow公司",
       "shares": 12900,
-      "weight": 0.89,
+      "weight": 0.93,
       "market_value_100m": 0.02
     },
     {
-      "code": "TER US",
-      "name": "泰瑞達公司",
-      "shares": 4300,
-      "weight": 0.89,
+      "code": "ARM US",
+      "name": "安謀控股公開有限公司",
+      "shares": 6000,
+      "weight": 0.92,
+      "market_value_100m": 0.02
+    },
+    {
+      "code": "SHOP US",
+      "name": "Shopify公司",
+      "shares": 11800,
+      "weight": 0.92,
       "market_value_100m": 0.02
     },
     {
       "code": "ANET US",
       "name": "Arista網路公司",
       "shares": 8300,
-      "weight": 0.87,
+      "weight": 0.89,
       "market_value_100m": 0.02
     },
     {
       "code": "NFLX US",
       "name": "Netflix Inc",
       "shares": 24100,
-      "weight": 0.87,
+      "weight": 0.85,
+      "market_value_100m": 0.02
+    },
+    {
+      "code": "TER US",
+      "name": "泰瑞達公司",
+      "shares": 3800,
+      "weight": 0.82,
       "market_value_100m": 0.02
     },
     {
@@ -285,13 +285,6 @@
       "market_value_100m": 0.01
     },
     {
-      "code": "IOT US",
-      "name": "森萬聯有限公司",
-      "shares": 28600,
-      "weight": 0.56,
-      "market_value_100m": 0.01
-    },
-    {
       "code": "SIMO US",
       "name": "Silicon Motion Technology Corp",
       "shares": 3800,
@@ -302,7 +295,7 @@
       "code": "AXON US",
       "name": "泰瑟國際公司",
       "shares": 2400,
-      "weight": 0.52,
+      "weight": 0.53,
       "market_value_100m": 0.01
     },
     {
@@ -313,10 +306,17 @@
       "market_value_100m": 0.01
     },
     {
+      "code": "IOT US",
+      "name": "森萬聯有限公司",
+      "shares": 22600,
+      "weight": 0.47,
+      "market_value_100m": 0.01
+    },
+    {
       "code": "FSLY US",
       "name": "Fastly Inc",
       "shares": 33100,
-      "weight": 0.44,
+      "weight": 0.46,
       "market_value_100m": 0.01
     },
     {
@@ -334,17 +334,17 @@
       "market_value_100m": 0.01
     },
     {
-      "code": "SPOT US",
-      "name": "Spotify Technology SA",
-      "shares": 1600,
-      "weight": 0.4,
-      "market_value_100m": 0.01
-    },
-    {
       "code": "MDB US",
       "name": "MongoDB Inc",
       "shares": 1800,
-      "weight": 0.32,
+      "weight": 0.33,
+      "market_value_100m": 0.01
+    },
+    {
+      "code": "SPOT US",
+      "name": "Spotify Technology SA",
+      "shares": 1200,
+      "weight": 0.31,
       "market_value_100m": 0.01
     },
     {

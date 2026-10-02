@@ -8,365 +8,372 @@
       "code": "SDLF LN",
       "name": "標準人壽公開有限公司",
       "shares": 650000,
-      "weight": 4.427,
-      "market_value_100m": 2.43
-    },
-    {
-      "code": "ABN NA",
-      "name": "荷蘭銀行公眾有限公司",
-      "shares": 140000,
-      "weight": 3.978,
-      "market_value_100m": 2.18
+      "weight": 4.378,
+      "market_value_100m": 2.37
     },
     {
       "code": "BOCHGR GA",
       "name": "賽普勒斯銀行控股公開有限公司",
       "shares": 540000,
-      "weight": 3.909,
-      "market_value_100m": 2.14
+      "weight": 3.931,
+      "market_value_100m": 2.13
+    },
+    {
+      "code": "ABN NA",
+      "name": "荷蘭銀行公眾有限公司",
+      "shares": 140000,
+      "weight": 3.876,
+      "market_value_100m": 2.1
     },
     {
       "code": "AGN NA",
       "name": "荷蘭保險公司",
       "shares": 680000,
-      "weight": 3.459,
-      "market_value_100m": 1.9
+      "weight": 3.419,
+      "market_value_100m": 1.85
     },
     {
       "code": "TPEIR GA",
       "name": "Piraeus Bank SA",
       "shares": 475000,
-      "weight": 3.432,
-      "market_value_100m": 1.88
+      "weight": 3.379,
+      "market_value_100m": 1.83
     },
     {
       "code": "AV/ LN",
       "name": "英傑華保險",
       "shares": 630000,
-      "weight": 3.33,
-      "market_value_100m": 1.83
+      "weight": 3.312,
+      "market_value_100m": 1.79
     },
     {
       "code": "NWG LN",
       "name": "國民西敏集團公開有限公司",
       "shares": 540000,
-      "weight": 2.862,
-      "market_value_100m": 1.57
+      "weight": 2.75,
+      "market_value_100m": 1.49
     },
     {
       "code": "DBK GY",
       "name": "德意志銀行",
       "shares": 130000,
-      "weight": 2.728,
-      "market_value_100m": 1.5
+      "weight": 2.694,
+      "market_value_100m": 1.46
     },
     {
-      "code": "UCG IM",
-      "name": "裕信銀行",
-      "shares": 46000,
-      "weight": 2.512,
-      "market_value_100m": 1.38
+      "code": "8411 JP",
+      "name": "瑞穗金融集團",
+      "shares": 80000,
+      "weight": 2.57,
+      "market_value_100m": 1.39
     },
     {
       "code": "ADM LN",
       "name": "Admiral集團公開有限公司",
       "shares": 90000,
-      "weight": 2.506,
-      "market_value_100m": 1.38
+      "weight": 2.523,
+      "market_value_100m": 1.37
     },
     {
-      "code": "LLOY LN",
-      "name": "勞埃德銀行集團",
-      "shares": 3000000,
-      "weight": 2.469,
-      "market_value_100m": 1.36
+      "code": "UCG IM",
+      "name": "裕信銀行",
+      "shares": 46000,
+      "weight": 2.443,
+      "market_value_100m": 1.32
     },
     {
       "code": "MNG LN",
       "name": "M&G公開有限公司",
       "shares": 1000000,
-      "weight": 2.469,
-      "market_value_100m": 1.35
+      "weight": 2.429,
+      "market_value_100m": 1.32
+    },
+    {
+      "code": "LLOY LN",
+      "name": "勞埃德銀行集團",
+      "shares": 3000000,
+      "weight": 2.395,
+      "market_value_100m": 1.3
     },
     {
       "code": "ASRNL NA",
       "name": "ASR荷蘭公眾有限公司",
       "shares": 45000,
-      "weight": 2.139,
-      "market_value_100m": 1.17
+      "weight": 2.134,
+      "market_value_100m": 1.16
     },
     {
       "code": "STAN LN",
       "name": "渣打集團有限公司",
       "shares": 120000,
-      "weight": 2.123,
-      "market_value_100m": 1.17
+      "weight": 2.081,
+      "market_value_100m": 1.13
     },
     {
       "code": "BAMI IM",
       "name": "BPM銀行股份公司",
       "shares": 200000,
-      "weight": 2.097,
-      "market_value_100m": 1.15
-    },
-    {
-      "code": "8411 JP",
-      "name": "瑞穗金融集團",
-      "shares": 60000,
-      "weight": 1.966,
-      "market_value_100m": 1.08
-    },
-    {
-      "code": "BMPS IM",
-      "name": "義大利西恩那銀行股份公司",
-      "shares": 250000,
-      "weight": 1.935,
-      "market_value_100m": 1.06
+      "weight": 2.049,
+      "market_value_100m": 1.11
     },
     {
       "code": "EQH US",
       "name": "公平控股公司",
       "shares": 65000,
-      "weight": 1.935,
-      "market_value_100m": 1.06
-    },
-    {
-      "code": "7167 JP",
-      "name": "Mebuki金融集團公司",
-      "shares": 300000,
-      "weight": 1.907,
-      "market_value_100m": 1.05
+      "weight": 1.995,
+      "market_value_100m": 1.08
     },
     {
       "code": "GPN US",
       "name": "環匯公司",
       "shares": 40000,
-      "weight": 1.896,
-      "market_value_100m": 1.04
+      "weight": 1.898,
+      "market_value_100m": 1.03
     },
     {
-      "code": "INGA NA",
-      "name": "荷蘭國際集團",
-      "shares": 90000,
-      "weight": 1.866,
+      "code": "7167 JP",
+      "name": "Mebuki金融集團公司",
+      "shares": 300000,
+      "weight": 1.896,
+      "market_value_100m": 1.03
+    },
+    {
+      "code": "BMPS IM",
+      "name": "義大利西恩那銀行股份公司",
+      "shares": 250000,
+      "weight": 1.889,
       "market_value_100m": 1.02
     },
     {
       "code": "BLK US",
       "name": "貝萊德公司",
       "shares": 3000,
-      "weight": 1.843,
-      "market_value_100m": 1.01
+      "weight": 1.887,
+      "market_value_100m": 1.02
+    },
+    {
+      "code": "INGA NA",
+      "name": "荷蘭國際集團",
+      "shares": 90000,
+      "weight": 1.818,
+      "market_value_100m": 0.99
     },
     {
       "code": "G IM",
       "name": "忠意保險股份公司",
       "shares": 65000,
-      "weight": 1.83,
-      "market_value_100m": 1.0
+      "weight": 1.817,
+      "market_value_100m": 0.98
     },
     {
       "code": "055550 KS",
       "name": "新韓金融集團",
       "shares": 40000,
-      "weight": 1.823,
-      "market_value_100m": 1.0
+      "weight": 1.801,
+      "market_value_100m": 0.98
     },
     {
       "code": "CABK SM",
       "name": "凱克薩銀行有限責任公司",
       "shares": 200000,
-      "weight": 1.661,
-      "market_value_100m": 0.91
-    },
-    {
-      "code": "LGEN LN",
-      "name": "法通保險集團公開有限公司",
-      "shares": 700000,
-      "weight": 1.574,
-      "market_value_100m": 0.86
+      "weight": 1.607,
+      "market_value_100m": 0.87
     },
     {
       "code": "HOOD US",
       "name": "羅賓漢市場公司",
       "shares": 24000,
-      "weight": 1.567,
-      "market_value_100m": 0.86
+      "weight": 1.576,
+      "market_value_100m": 0.85
     },
     {
       "code": "JPM US",
       "name": "摩根大通銀行",
       "shares": 8000,
-      "weight": 1.536,
-      "market_value_100m": 0.84
+      "weight": 1.575,
+      "market_value_100m": 0.85
     },
     {
-      "code": "AMUN FP",
-      "name": "東方匯理資產管理有限責任公司",
-      "shares": 25000,
-      "weight": 1.504,
-      "market_value_100m": 0.83
-    },
-    {
-      "code": "UNI IM",
-      "name": "Unipol保險股份公司",
-      "shares": 85000,
-      "weight": 1.503,
-      "market_value_100m": 0.82
-    },
-    {
-      "code": "BNP FP",
-      "name": "法國巴黎銀行有限責任公司",
-      "shares": 24000,
-      "weight": 1.502,
-      "market_value_100m": 0.82
+      "code": "LGEN LN",
+      "name": "法通保險集團公開有限公司",
+      "shares": 700000,
+      "weight": 1.563,
+      "market_value_100m": 0.85
     },
     {
       "code": "V US",
       "name": "威士卡",
       "shares": 7000,
-      "weight": 1.46,
+      "weight": 1.488,
+      "market_value_100m": 0.81
+    },
+    {
+      "code": "UNI IM",
+      "name": "Unipol保險股份公司",
+      "shares": 85000,
+      "weight": 1.481,
       "market_value_100m": 0.8
     },
     {
-      "code": "ETE GA",
-      "name": "希臘國家銀行",
-      "shares": 120000,
-      "weight": 1.411,
-      "market_value_100m": 0.77
+      "code": "AMUN FP",
+      "name": "東方匯理資產管理有限責任公司",
+      "shares": 25000,
+      "weight": 1.468,
+      "market_value_100m": 0.8
+    },
+    {
+      "code": "BNP FP",
+      "name": "法國巴黎銀行有限責任公司",
+      "shares": 24000,
+      "weight": 1.467,
+      "market_value_100m": 0.8
     },
     {
       "code": "CHYM US",
       "name": "Chime Financial Inc",
       "shares": 90000,
-      "weight": 1.392,
-      "market_value_100m": 0.76
+      "weight": 1.428,
+      "market_value_100m": 0.77
     },
     {
       "code": "MRX US",
       "name": "馬雷克斯集團有限公司",
       "shares": 33000,
-      "weight": 1.336,
-      "market_value_100m": 0.73
+      "weight": 1.384,
+      "market_value_100m": 0.75
     },
     {
-      "code": "8308 JP",
-      "name": "Resona控股公司",
-      "shares": 140000,
-      "weight": 1.32,
-      "market_value_100m": 0.72
+      "code": "ETE GA",
+      "name": "希臘國家銀行",
+      "shares": 120000,
+      "weight": 1.37,
+      "market_value_100m": 0.74
     },
     {
       "code": "8331 JP",
       "name": "千葉銀行有限公司",
       "shares": 125000,
       "weight": 1.318,
-      "market_value_100m": 0.72
+      "market_value_100m": 0.71
+    },
+    {
+      "code": "8308 JP",
+      "name": "Resona控股公司",
+      "shares": 140000,
+      "weight": 1.292,
+      "market_value_100m": 0.7
     },
     {
       "code": "C US",
       "name": "花旗集團公司",
       "shares": 17000,
-      "weight": 1.278,
-      "market_value_100m": 0.7
+      "weight": 1.276,
+      "market_value_100m": 0.69
     },
     {
       "code": "HSBA LN",
       "name": "匯豐控股有限公司",
       "shares": 110000,
-      "weight": 1.268,
-      "market_value_100m": 0.7
-    },
-    {
-      "code": "WFC US",
-      "name": "富國銀行",
-      "shares": 25000,
-      "weight": 1.162,
-      "market_value_100m": 0.64
-    },
-    {
-      "code": "CS FP",
-      "name": "安盛有限責任公司",
-      "shares": 38000,
-      "weight": 1.065,
-      "market_value_100m": 0.58
+      "weight": 1.236,
+      "market_value_100m": 0.67
     },
     {
       "code": "ENX FP",
       "name": "泛歐交易所",
       "shares": 10000,
-      "weight": 1.047,
-      "market_value_100m": 0.57
+      "weight": 1.064,
+      "market_value_100m": 0.58
     },
     {
-      "code": "KBC BB",
-      "name": "比利時聯合金融集團",
-      "shares": 12000,
-      "weight": 1.032,
-      "market_value_100m": 0.57
-    },
-    {
-      "code": "105560 KS",
-      "name": "韓國國民銀行金融集團公司",
-      "shares": 14000,
-      "weight": 1.015,
-      "market_value_100m": 0.56
-    },
-    {
-      "code": "000810 KS",
-      "name": "三星火災海上保險有限公司",
-      "shares": 3700,
-      "weight": 1.006,
-      "market_value_100m": 0.55
+      "code": "CS FP",
+      "name": "安盛有限責任公司",
+      "shares": 38000,
+      "weight": 1.063,
+      "market_value_100m": 0.58
     },
     {
       "code": "DB1 GY",
       "name": "德意志證交所",
       "shares": 5300,
-      "weight": 0.999,
+      "weight": 1.015,
       "market_value_100m": 0.55
     },
     {
-      "code": "BKT SM",
-      "name": "西班牙洲際銀行有限責任公司",
-      "shares": 92000,
-      "weight": 0.984,
+      "code": "KBC BB",
+      "name": "比利時聯合金融集團",
+      "shares": 12000,
+      "weight": 1.009,
+      "market_value_100m": 0.55
+    },
+    {
+      "code": "105560 KS",
+      "name": "韓國國民銀行金融集團公司",
+      "shares": 14000,
+      "weight": 1.008,
+      "market_value_100m": 0.55
+    },
+    {
+      "code": "000810 KS",
+      "name": "三星火災海上保險有限公司",
+      "shares": 3700,
+      "weight": 1.005,
       "market_value_100m": 0.54
     },
     {
       "code": "UBS US",
       "name": "瑞銀集團公司",
       "shares": 35000,
-      "weight": 0.978,
-      "market_value_100m": 0.54
+      "weight": 0.984,
+      "market_value_100m": 0.53
+    },
+    {
+      "code": "BKT SM",
+      "name": "西班牙洲際銀行有限責任公司",
+      "shares": 92000,
+      "weight": 0.965,
+      "market_value_100m": 0.52
     },
     {
       "code": "IBKR US",
       "name": "盈透證券集團公司",
       "shares": 19000,
-      "weight": 0.942,
+      "weight": 0.963,
       "market_value_100m": 0.52
     },
     {
       "code": "8377 JP",
       "name": "北北金融集團公司",
       "shares": 250000,
-      "weight": 0.846,
-      "market_value_100m": 0.46
+      "weight": 0.823,
+      "market_value_100m": 0.45
     },
     {
       "code": "BNY US",
       "name": "紐約梅隆銀行",
       "shares": 9000,
-      "weight": 0.756,
+      "weight": 0.765,
       "market_value_100m": 0.41
     },
     {
       "code": "8309 JP",
       "name": "三井住友信託集團公司",
       "shares": 110000,
-      "weight": 0.726,
+      "weight": 0.73,
       "market_value_100m": 0.4
+    },
+    {
+      "code": "WFC US",
+      "name": "富國銀行",
+      "shares": 15000,
+      "weight": 0.711,
+      "market_value_100m": 0.39
+    },
+    {
+      "code": "8725 JP",
+      "name": "MS&AD保險集團控股公司",
+      "shares": 28000,
+      "weight": 0.51,
+      "market_value_100m": 0.28
     }
   ]
 }

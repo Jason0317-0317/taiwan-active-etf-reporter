@@ -8,133 +8,133 @@
       "code": "TSLA US",
       "name": "特斯拉公司",
       "shares": 7392,
-      "weight": 8.56,
+      "weight": 8.66,
       "market_value_100m": 0.03
     },
     {
       "code": "SPCX US",
       "name": "太空探索科技公司",
       "shares": 12688,
-      "weight": 6.25,
+      "weight": 6.22,
       "market_value_100m": 0.02
     },
     {
       "code": "TEM US",
       "name": "Tempus AI公司",
       "shares": 23088,
-      "weight": 6.17,
+      "weight": 5.85,
       "market_value_100m": 0.02
     },
     {
       "code": "TWST US",
       "name": "Twist Bioscience Corp",
       "shares": 8560,
-      "weight": 5.4,
+      "weight": 5.33,
       "market_value_100m": 0.02
     },
     {
       "code": "TXG US",
       "name": "10X Genomics Inc",
       "shares": 16232,
-      "weight": 4.79,
+      "weight": 4.77,
       "market_value_100m": 0.01
     },
     {
       "code": "CRCL US",
       "name": "Circle網路集團公司",
       "shares": 17399,
-      "weight": 4.67,
+      "weight": 4.77,
       "market_value_100m": 0.01
     },
     {
       "code": "COIN US",
       "name": "比特幣基地全球公司",
       "shares": 7397,
-      "weight": 4.5,
+      "weight": 4.63,
       "market_value_100m": 0.01
     },
     {
       "code": "HOOD US",
       "name": "羅賓漢市場公司",
       "shares": 11908,
-      "weight": 4.37,
+      "weight": 4.38,
       "market_value_100m": 0.01
     },
     {
       "code": "SHOP US",
       "name": "Shopify公司",
       "shares": 8253,
-      "weight": 4.0,
+      "weight": 4.07,
       "market_value_100m": 0.01
     },
     {
       "code": "CRSP US",
       "name": "CRISPR治療公司",
       "shares": 21782,
-      "weight": 3.93,
+      "weight": 4.0,
       "market_value_100m": 0.01
     },
     {
       "code": "AMD US",
       "name": "ADVANCED MICRO DEVICES.amd us(超微半導體公司)",
       "shares": 1683,
-      "weight": 3.36,
+      "weight": 3.43,
       "market_value_100m": 0.01
     },
     {
       "code": "PLTR US",
       "name": "帕蘭提爾科技公司",
       "shares": 5311,
-      "weight": 3.24,
+      "weight": 3.34,
       "market_value_100m": 0.01
     },
     {
       "code": "TSM US",
       "name": "台積電",
       "shares": 1765,
-      "weight": 2.63,
+      "weight": 2.68,
       "market_value_100m": 0.01
     },
     {
       "code": "AMZN US",
       "name": "亞馬遜公司",
       "shares": 3097,
-      "weight": 2.52,
+      "weight": 2.54,
       "market_value_100m": 0.01
     },
     {
       "code": "NVDA US",
       "name": "NVIDIA CORP(輝達公司)",
       "shares": 3287,
-      "weight": 2.45,
+      "weight": 2.51,
       "market_value_100m": 0.01
     },
     {
       "code": "BMNR US",
       "name": "BitMine Immersion技術公司",
       "shares": 27323,
-      "weight": 2.36,
+      "weight": 2.42,
       "market_value_100m": 0.01
     },
     {
       "code": "BLSH US",
       "name": "Bullish",
       "shares": 19336,
-      "weight": 2.2,
+      "weight": 2.23,
       "market_value_100m": 0.01
     },
     {
       "code": "ILMN US",
       "name": "伊魯米納公司",
       "shares": 2138,
-      "weight": 1.91,
+      "weight": 1.88,
       "market_value_100m": 0.01
     },
     {
       "code": "NTRA US",
       "name": "那提拉公司",
       "shares": 1329,
-      "weight": 1.79,
+      "weight": 1.8,
       "market_value_100m": 0.01
     },
     {
@@ -148,49 +148,49 @@
       "code": "BEAM US",
       "name": "光束治療公司",
       "shares": 18142,
-      "weight": 1.45,
+      "weight": 1.46,
       "market_value_100m": 0.0
     },
     {
       "code": "NET US",
       "name": "Cloudflare公司",
       "shares": 1123,
-      "weight": 1.27,
+      "weight": 1.3,
       "market_value_100m": 0.0
     },
     {
       "code": "CRWV US",
       "name": "CoreWeave Inc",
       "shares": 4387,
-      "weight": 1.25,
+      "weight": 1.29,
       "market_value_100m": 0.0
     },
     {
       "code": "XYZ US",
       "name": "布洛克公司",
       "shares": 5202,
-      "weight": 1.25,
+      "weight": 1.27,
       "market_value_100m": 0.0
     },
     {
       "code": "WGS US",
       "name": "GeneDx控股公司",
       "shares": 4234,
-      "weight": 1.0,
+      "weight": 0.99,
       "market_value_100m": 0.0
     },
     {
       "code": "CBRS US",
       "name": "Cerebras Systems Inc",
       "shares": 1655,
-      "weight": 0.96,
+      "weight": 0.93,
       "market_value_100m": 0.0
     },
     {
       "code": "AVGO US",
       "name": "博通公司",
       "shares": 807,
-      "weight": 0.93,
+      "weight": 0.92,
       "market_value_100m": 0.0
     },
     {
@@ -204,14 +204,14 @@
       "code": "LLY US",
       "name": "禮來公司",
       "shares": 215,
-      "weight": 0.81,
+      "weight": 0.82,
       "market_value_100m": 0.0
     },
     {
       "code": "META US",
       "name": "Meta平台公司",
       "shares": 320,
-      "weight": 0.76,
+      "weight": 0.77,
       "market_value_100m": 0.0
     },
     {
@@ -225,42 +225,42 @@
       "code": "KTOS US",
       "name": "克瑞拓斯安全防衛公司",
       "shares": 4883,
-      "weight": 0.68,
+      "weight": 0.69,
       "market_value_100m": 0.0
     },
     {
       "code": "ACHR US",
       "name": "阿徹航空公司",
       "shares": 40714,
-      "weight": 0.66,
+      "weight": 0.68,
       "market_value_100m": 0.0
     },
     {
       "code": "TER US",
       "name": "泰瑞達公司",
       "shares": 491,
-      "weight": 0.64,
+      "weight": 0.68,
       "market_value_100m": 0.0
     },
     {
       "code": "NTLA US",
       "name": "英特利亞治療公司",
       "shares": 14372,
-      "weight": 0.57,
+      "weight": 0.58,
       "market_value_100m": 0.0
     },
     {
       "code": "RKLB US",
       "name": "火箭實驗室美國公司",
       "shares": 2410,
-      "weight": 0.55,
+      "weight": 0.56,
       "market_value_100m": 0.0
     },
     {
       "code": "SNOW US",
       "name": "Snowflake公司",
       "shares": 476,
-      "weight": 0.53,
+      "weight": 0.54,
       "market_value_100m": 0.0
     },
     {
@@ -281,7 +281,7 @@
       "code": "SOFI US",
       "name": "索菲科技公司",
       "shares": 8160,
-      "weight": 0.42,
+      "weight": 0.43,
       "market_value_100m": 0.0
     },
     {
